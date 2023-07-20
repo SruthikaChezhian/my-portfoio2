@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.container1{
+    background-color: #F5EFE7;
+    padding-bottom: 60px;
+    position: relative;
+}
+.symbol{
+    padding-top: 20px;
+}
+h1{
+    font-size: 4rem;
+    color: #213555;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 800;
+    margin: 0;
+    padding-top: 30px;
+    
+}
+.sub-heading{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #4F709C;
+    padding-top: 10px;
+    font-size: 3rem;
+}
+.computer-img{
+    padding-top: 40px;
+}
+.container{
+    background-color: white;
+    margin: 0;
+    padding-bottom: 50px;
+}
+#sub{
+    padding-top: 50px;
+}
+.pro-photo{
+    margin-top: 50px;
+    border-radius: 50%;
+
+}
+.para{
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 1.5rem;
+}
+#para1{
+    padding-bottom: 30px;
+}
+.btn{
+    margin: 40px;
+    background-color: #F5EFE7;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 1.5rem;
+    color: #4F709C;
+    font-weight: 700;
+    padding: 7px 20px 10px 20px;
+    border: #213555 solid 1.5px;
+    border-radius: 10%;
+    text-decoration: none;
+}
+.footer{
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.link{
+    font-family: 'Ysabeau Infant', sans-serif;
+    color: #4F709C;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.copyright{
+    font-family: 'Ysabeau Infant', sans-serif;
+    margin-top: 50px;
+    font-size: 1.5rem;
+}
